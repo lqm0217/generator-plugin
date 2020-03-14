@@ -1,7 +1,7 @@
 ## Custom Mybitis Generator Plugins
 
 ### LombokPlusPlugin
-* function
+* function  
 add @Getter @Setter for model
 
 * usage
@@ -10,7 +10,7 @@ add @Getter @Setter for model
 ```
 
 ### RenameJavaMapperPlugins
-* function
+* function  
 rename *Mapper.java to *Repository.java
 
 * usage
@@ -22,7 +22,7 @@ rename *Mapper.java to *Repository.java
 ```
 
 ### RenameSqlMapperPlugins
-* function
+* function  
 rename *Mapper.xml to *Repository.xml
 
 * usage
@@ -34,7 +34,7 @@ rename *Mapper.xml to *Repository.xml
 ```
 
 ### RepositoryAnnotationPlugin
-* function
+* function  
 add @Repository for Repository interface
 
 * usage
@@ -45,7 +45,7 @@ add @Repository for Repository interface
 ```
 
 ### RenameJavaModelPlugins
-* function
+* function  
 rename model class to *Entity.java
 
 * usage
