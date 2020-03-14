@@ -5,6 +5,7 @@
 add @Getter @Setter for model
 
 * usage
+add the follow code in the section[<context>] of Mybitis Generator Plugins's config file[generatorConfig.xml].
 ```
     <plugin type="com.mybatis.generator.plugins.LombokPlusPlugin"/>
 ```
