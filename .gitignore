@@ -1,0 +1,15 @@
+!README.md
+!**/src/main/**
+
+target/
+
+### STS ###
+.project
+.settings
+
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.iml
+mvnw
+mvnw.cmd
